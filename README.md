@@ -2,5 +2,8 @@
 
 hackaton https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
 
-link to the tweet
+## Screenshot of the  Hidden transaction
+![Hidden transaction](./Screenshot 2020-10-19 at 21.12.43.png)
+
+## link to the tweet
 https://twitter.com/zauddelig/status/1318270135593992192
