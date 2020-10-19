@@ -14,3 +14,7 @@ hackaton https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023
 
 ## link to the tweet
 https://twitter.com/zauddelig/status/1318270135593992192
+
+
+## link to discord message
+https://discord.com/channels/697726436211163147/706401317240963142/767838562804301856
